@@ -1,3 +1,5 @@
+"""This module handles text-to-SQL conversion using FLAN-T5."""
+
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 import torch
 
