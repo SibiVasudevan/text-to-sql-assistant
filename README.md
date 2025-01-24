@@ -1,1 +1,1 @@
-# text-sql-assistant
+# text-to-sql-assistant
